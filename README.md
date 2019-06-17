@@ -30,3 +30,11 @@ You may use any existing personal accounts if you'd like, no need to reregister.
 
 - [nvm](https://github.com/creationix/nvm)
 - [hub](https://hub.github.com/)
+
+## Additional Dev Team / Victory Installs
+
+- [Discord](https://discordapp.com/download)
+- [Slack](https://slack.com/downloads)
+- [Skype For Business](https://products.office.com/en-us/skype-for-business/download-app)
+- [VS Code](https://code.visualstudio.com/docs/setup/setup-overview)
+- [MySQL Workbench](https://www.mysql.com/products/workbench/)
