@@ -21,14 +21,13 @@ You may use any existing personal accounts if you'd like, no need to reregister.
 ## Required Stuff
 
 - [git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en/)
+- [nvm](https://github.com/creationix/nvm)
 - [Homebrew](https://brew.sh/)
 - [Yarn](https://yarnpkg.com/en/)
 - [Postman](https://www.getpostman.com/)
 
 ## Suggested Stuff (Not Required)
 
-- [nvm](https://github.com/creationix/nvm)
 - [hub](https://hub.github.com/)
 
 ## Additional Dev Team / Victory Installs
